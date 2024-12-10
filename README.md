@@ -48,4 +48,6 @@ While the system can support up to 12.6 MB of RAM total, which requires the use 
 
 ## Image Gallery
 
-TBD
+| ![](https://github.com/BeniD82/Compaq-SLT286-RAM/blob/BeniD82-patch-1/Images/3MB_installed.jpg) | ![](https://github.com/BeniD82/Compaq-SLT286-RAM/blob/BeniD82-patch-1/Images/test_checkit3.jpg) |
+| :---------------: | :---------------: |
+| ![](https://github.com/BeniD82/Compaq-SLT286-RAM/blob/BeniD82-patch-1/Images/boot_mem.jpg) | ![](https://github.com/BeniD82/Compaq-SLT286-RAM/blob/BeniD82-patch-1/Images/test_winsleuth3.jpg) |
