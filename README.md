@@ -17,7 +17,7 @@ Schematics for the custom module as well Gerber files for PCB manufacturing are 
 | Location | Part | Package / Case Code | Part number |
 | --- | --- | --- | --- |
 | IC1 | 1 Mbit SRAM (128K x 8), used for parity | SOP-32 | AS6C1008-55SINTR |
-| IC2 | 8 Mbit SRAM (1M x 16)  | TSOP-II | AS6C8016-55ZIN |
+| IC2 | 8 Mbit SRAM (512K x 16)  | TSOP-II | AS6C8016-55ZIN |
 | C1, C2, C3 | 0.1uf MLCC capacitor | 1206 | Kyrocera/AVX 1206YC104JAT2A |
 
 ## PCB Manufacturing and Assembly
