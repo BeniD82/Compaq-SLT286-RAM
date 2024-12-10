@@ -44,4 +44,4 @@ I was also able to reproduce the behavior if using one of the new modules in e.g
 
 ## What about larger modules?
 
-While the system can support up to 12.6 MB of RAM total, which requires the use of three 4MB modules, 1MB modules should be more than adequate, providing ample amounts of system memory, and in addition, will allow users to run Windows 3.1 on these machines, if they so choose. Creating larger modules would require significantly more expensive SRAM chips as well additional logic for address decoding.
+While the system can support up to 12.6 MB of RAM total, which requires the use of three 4MB modules, 1MB modules should be more than adequate, providing ample amounts of system memory, and in addition, will allow users to run Windows 3.1 on these machines, if they so choose. Creating larger modules would require significantly more expensive SRAM chips as well additional logic for address decoding, which I'm not certain would be worth the additional effort and expenditures.
