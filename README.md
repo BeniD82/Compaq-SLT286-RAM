@@ -24,20 +24,20 @@ Schematics for the custom module as well a set of Gerber files (based on the req
 ## Version History:
 
 *   v0.3 (current)    
-    \- Converted to a 4-layer design, using proper ground and power planes
+    + Converted to a 4-layer design, using proper ground and power planes
 *   v0.2   
-    \- Reworked edge connector  
-    \- Resized module dimensions
+    + Reworked edge connector  
+    + Revised module dimensions
 *   v0.1    
-    \- Initial release
+    + Initial release
 
 
 
 ## Caveats
 
-My tested systems encountered stability issues with three memory modules installed; it ran stable if only two memory modules had been installed in slot A (J116) and slot B (J117). If adding a third module to slot C (J118), or only populating slot C, the system became unstable, randomly generating “Parity Check 2 ?????” in DOS, and when using Windows 3.1, the system would freeze shortly after loading.
+On my systems I encountered stability issues if I had three memory modules installed; it ran stable if two memory modules had been installed, one in slot A (J116) and the other slot B (J117). If adding a third module to slot C (J118), or if only populating slot C, the system became unstable, randomly generating “Parity Check 2 ?????” errors in DOS, and when using Windows 3.1, the system would freeze shortly after loading.
 
-I was also able to reproduce the behavior if using one of the new modules in e.g. slot A and original PSRAM modules in slots B and C. I am uncertain if this behavior is related to the new memory modules, my systems, or a general issue with the hardware across the board.
+I was also able to reproduce the behavior if using one of the new modules in slot A and adding the original PSRAM modules to slots B and C. I am uncertain if this behavior is related to the new memory modules, my systems, or a general issue with the SLT/286 itself.
 
 
 
@@ -45,3 +45,7 @@ I was also able to reproduce the behavior if using one of the new modules in e.g
 ## What about larger modules?
 
 While the system can support up to 12.6 MB of RAM total, which requires the use of three 4MB modules, 1MB modules should be more than adequate, providing ample amounts of system memory, and in addition, will allow users to run Windows 3.1 on these machines, if they so choose. Creating larger modules would require significantly more expensive SRAM chips as well additional logic for address decoding, which I'm not certain would be worth the additional effort and expenditures.
+
+## Image Gallery
+
+TBD
