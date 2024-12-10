@@ -1,6 +1,6 @@
 # Compaq SLT/286 Memory Module
 
-<img src="https://github.com/BeniD82/Compaq-SLT286-RAM/blob/BeniD82-patch-1/Images/module_3d.PNG" width="75%"> 
+<img src="https://github.com/BeniD82/Compaq-SLT286-RAM/blob/main/Images/module_3d.PNG" width="75%"> 
 
 
 
@@ -40,9 +40,9 @@ While the system can support up to 12.6 MB of RAM total, which requires the use 
 
 ## Image Gallery
 
-| ![](https://github.com/BeniD82/Compaq-SLT286-RAM/blob/BeniD82-patch-1/Images/3MB_installed.jpg) | ![](https://github.com/BeniD82/Compaq-SLT286-RAM/blob/BeniD82-patch-1/Images/test_checkit3.jpg) |
+| ![](https://github.com/BeniD82/Compaq-SLT286-RAM/blob/main/Images/3MB_installed.jpg) | ![](https://github.com/BeniD82/Compaq-SLT286-RAM/blob/main/Images/test_checkit3.jpg) |
 | :---------------: | :---------------: |
-| ![](https://github.com/BeniD82/Compaq-SLT286-RAM/blob/BeniD82-patch-1/Images/boot_mem.jpg) | ![](https://github.com/BeniD82/Compaq-SLT286-RAM/blob/BeniD82-patch-1/Images/test_winsleuth3.jpg) |
+| ![](https://github.com/BeniD82/Compaq-SLT286-RAM/blob/main/Images/boot_mem.jpg) | ![](https://github.com/BeniD82/Compaq-SLT286-RAM/blob/main/Images/test_winsleuth3.jpg) |
 
 ## Version History:
 
