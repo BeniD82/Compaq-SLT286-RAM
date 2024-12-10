@@ -6,6 +6,7 @@ The Compaq SLT/286 laptop provides 640k of RAM in its stock configuration. The S
 Schematics for the custom module as well a set of Gerber files (based on the requirements of JLCPCB as well as PCBWAY) are porvided in this project.
 
 
+
 ## Bill of Materials
 
 | Location | Part | Size / Case Code | Part number |
@@ -24,9 +25,8 @@ Schematics for the custom module as well a set of Gerber files (based on the req
 *   v0.2   
     \- Reworked edge connector  
     \- Resized module dimensions
-*   v0.1 
+*   v0.1    
     \- Initial release
-
 
 
 
@@ -41,4 +41,4 @@ I was also able to reproduce the behavior if using one of the new modules in e.g
 
 ## What about larger modules?
 
-While the system can support up to 12.6 MB of RAM total, which require the use of three 4MB modules, 1MB modules should be more than adequate, providing ample amounts of system memory, and in addition, will allow users to run Windows 3.1 on these machines if they so choose. Creating larger modules would require significantly more expensive SRAM chips as well additional logic for address decoding.
+While the system can support up to 12.6 MB of RAM total, which requires the use of three 4MB modules, 1MB modules should be more than adequate, providing ample amounts of system memory, and in addition, will allow users to run Windows 3.1 on these machines, if they so choose. Creating larger modules would require significantly more expensive SRAM chips as well additional logic for address decoding.
