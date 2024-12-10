@@ -12,7 +12,7 @@ Schematics for the custom module as well a set of Gerber files (based on the req
 
 ## Bill of Materials
 
-| Location | Part | Size / Case Code | Part number |
+| Location | Part | Package / Case Code | Part number |
 | --- | --- | --- | --- |
 | IC1 | 1 Mbit SRAM (128K x 8), used for parity | SOP-32 | ASC6C1008-55SINTR |
 | IC2 | 8 Mbit SRAM (1M x 16)  | TSOP-II | AS6C8016-55ZIN |
