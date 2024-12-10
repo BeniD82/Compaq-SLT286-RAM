@@ -1,4 +1,7 @@
 # Compaq SLT/286 Memory Module
+
+<img src="https://github.com/BeniD82/Compaq-SLT286-RAM/blob/BeniD82-patch-1/Images/module_3d.PNG" width="75%"> 
+
 ## Introduction
 
 The Compaq SLT/286 laptop provides 640k of RAM in its stock configuration. The SLT/286 requires the use of proprietary PSRAM memory modules to expand available RAM which are unobtainable today. The intent of this project is to provide an economic, low-cost alternative to SLT/286 users, allowing them to upgrade their vintage system using 1MB SRAM modules instead.
